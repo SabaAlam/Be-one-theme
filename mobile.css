@@ -1,0 +1,151 @@
+@media  screen and (max-width:400px) {
+    .menu{
+        display: none;
+    }
+    .icon
+    {
+        display: block;
+    }
+    .slider{
+        height: 70vh;
+    }
+    .pic1>h1{
+        font-size: 34px;
+        top:25%;
+    }
+    .pic1>button{
+        left:30%;
+        top:70%;
+    }
+    .hire{
+        height: 29vh;
+    }
+    .hire>p{
+        width: 90%;
+        text-align: center;
+        top:10%;
+        /* border: 1px solid white; */
+        /* left: 10%; */
+        /* right: 20%; */
+        left: 5%;
+    }
+    .hire>button{
+        left:32%;
+        top:60%;
+    }
+    .block{
+        height: 200vh;
+        flex-direction: column;
+    }
+    .block1{
+        width: 80%;
+    }
+    .heading{
+        top:5%
+    }
+    .iconboxes{
+        height: 90vh;
+        top:17%;
+    }
+    .iconboxes1{
+        width: 100%;
+        height: 17vh;
+    }
+    .project{
+        height: 220vh;
+    }
+    .heading2{
+        top:5%;
+        height:60px;
+    }
+    .heading2>hr{
+        top:50%;
+
+    }
+    .project1{
+        top:12%;
+        height: 180vh;
+        /* width: 100%; */
+        /* flex-direction: column; */
+    }
+    .picbox{
+        width: 100%;
+        height: 40vh;
+    }
+    .choose{
+        height: 150vh;
+    }
+    .heading3{
+        top:3%;
+    }
+    .heading3>hr{
+        top:50%;
+    }
+    .choosebox{
+        height: 130vh;
+        top:10%;
+        /* border: 1px solid #000; */
+        width:85%;
+        margin: auto 0px;
+        /* border:2px solid black; */
+        left: 6%;
+        justify-content: space-evenly;
+        flex-direction: column;
+
+    }
+    .choosebox1{
+        width: 100%;
+        flex-flow: wrap;
+        /* flex-direction: column; */
+    }
+    .work{
+        height: 35vh;
+        /* justify-content: center; */
+        align-items: center;
+        flex-direction: column;
+    }
+    .work1{
+        height: 35vh;
+        width: 80%;
+        /* left:5%; */
+    }
+    .work1>h1{
+        margin-top: 10px;
+        font-size: 20px;
+    }
+    /* .work1>p{
+        margin-top: 10px;
+    } */
+    .w1{
+        display: none;
+    }
+    .work1>button{
+        left:30%;
+    }
+    .foot{
+        display: none;
+    }
+    .footerbox{
+        height: 30vh;
+    }
+    .footerbox>p{
+        margin-top:5px;
+    }
+    .menu4{
+        margin-top: 20px;
+    }
+    .menu4>li{
+        margin-top: 7px;
+    }
+    .footer1{
+        height: 130vh;
+        background-color: black;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+    }
+    .footerbox{
+        width: 80%;
+    }
+        
+}
